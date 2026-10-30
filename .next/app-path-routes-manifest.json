@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/csv/list/route": "/api/csv/list",
+  "/api/csv/local/route": "/api/csv/local",
+  "/api/csv/route": "/api/csv",
+  "/api/csv/upload/route": "/api/csv/upload",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
